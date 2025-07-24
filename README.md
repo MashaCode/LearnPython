@@ -526,7 +526,7 @@ strings[2:] #CD1234
 Срез с конца
 ```python
 strings = "ABCD1234"
-strings[:2] #CD1234
+strings[:2] #AB
 ```
 
 ## Методы строк
