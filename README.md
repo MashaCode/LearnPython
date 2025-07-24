@@ -506,7 +506,7 @@ print(s[3:])    # hon
 
 ```python
 s = "Python"
-s_new = s[:0] + "J" + s[1:]
+s_new = "J" + s[1:]
 print(s_new)  # Jython
 ```
 
